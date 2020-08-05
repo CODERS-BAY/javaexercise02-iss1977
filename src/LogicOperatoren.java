@@ -38,21 +38,6 @@ public class LogicOperatoren {
         stream.print("p="+false+", q="+false + " ; p=>q : ");  stream.println( implication(false,false));
 
 
-//       System.out.println(true , false ,  implication(true,false));
-//        System.out.println(true +  true  +  implication(true,false));
-//        System.out.println(false +  true +  implication(true,false));
-//        System.out.println(false +  false +  implication(true,false));
-//        (A && B) || C
-//
-//                (!(A && B)) || C
-//
-//        !(A || B || C)
-//
-//        !((A && B) || (B && C))
-//
-//        !(A ^ B)
-
-
 
     }
 }
